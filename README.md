@@ -15,15 +15,15 @@ in the shortest possible time, but watch out you can fall off from the platforms
 <p>Wecking Ball uses DOTween and Unity Input Manager 1.4.4</p>
 
 <p><h1> Settings </h1></p>
-<p>There is a GameObject call Settings where you can move different parameters like speed, jump force, camera depth, etc.</p>
+<p>There is a GameObject called Settings where you can set up different parameters like speed, jump force, camera depth, etc.</p>
 
 ![settings](https://user-images.githubusercontent.com/86846268/206033498-199541ff-2f09-4d67-903e-c60381a8db0d.jpg)
 
 <p><h1> Gameplay </h1></p>
-<p>This is the part I'm most proud of, you can play with your friends and have some good time. 'Cause the deadline was so close I can't make a Leaderboard to complete the social experience. Sorry for my spaguetti code, by time I made the game this way.</p>
+<p>This is the part I'm most proud of, you can play with your friends and have some good time. 'Cause the deadline was so close I can't make a Leaderboard to complete the social experience. Sorry for my spaguetti code, I made the game this way up because the hurry.</p>
 
 <p><h1> What I can do Better? </h1></p>
-<p>Certainly the code, following SOLID priciples and make the items like scripting object, just for the scale of the project.</p>
+<p>Certainly the code, following SOLID priciples and make the items like scripting object, just in case for a future scale of the project.</p>
 
 <p><h1> Time spending on each section </h1></p>
 <p><li>Gameplay idea took me a day, I have 6 different ideas but this one fulfill the requierements and have a (close) fun gameplay.</li>
