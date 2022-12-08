@@ -6,7 +6,7 @@
 <p><h1> How to use </h1></p>
 <p>This is a mini game made in Unity 2021.3.14 achieve the requirements for the test.</p>
 
-<p>You have the control of a ball, pick up your jetpack and take the +Fuel items to gain more charge and add points to break the wall...  oh, yeah! you won the game breaking the wall in the shortest possible time, but watch out, you can fall off from the platforms.</p>
+<p>You have the control of a ball, pick up your jetpack and take the +Fuel items to gain more charge for your Jetpack and add points to break the wall...  oh, yeah! you win the game breaking the wall in the shortest possible time, but watch out, you can fall off from the platforms.</p>
 
 <p>You can control the ball with the arrow keys, WASD keys or a gamepad.</p>
 
@@ -26,7 +26,7 @@
 
 <p><h1> Time spending on each section </h1></p>
 <p><li>Gameplay idea took me a day, I have 6 different ideas but this one fulfill the requierements and have a (close) fun gameplay.</li>
-<li>3d Models 2 hours, these are the ball, the jetpack and the +fuel item, the 3D textures took me 30 minutes. these are not high detailed models or textures that need spending more time.</li>
+<li>I spend 2 hours in the 3d models; these are the ball, the jetpack and the +fuel item, the 3D textures took me 30 minutes. these are not high detailed models or textures that need spending more time.</li>
 <li>Programming gameplay 3 days. (I have some troubles with the controls but in the end works for this project)</li></p>
 
 ![banner](https://user-images.githubusercontent.com/86846268/206031286-f24bbb0f-db4e-4985-b950-4bedc743ca6e.jpg)
