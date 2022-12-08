@@ -6,8 +6,8 @@
 <p><h1> How to use </h1></p>
 <p>This is a mini game made in Unity 2021.3.14 achieve the requirements for the test.</p>
 
-<p>You have the control of a ball, pick your jetpack and take the +Fuel items to gain more fuel and add points to break the wall 
-in the shortest possible time, but watch out you can fall off from the platforms.</p>
+<p>You have the control of a ball, pick up your jetpack and take the +Fuel items to gain more charge and add points to break the wall 
+in the shortest possible time, but watch out, you can fall off from the platforms.</p>
 
 <p>You can control the ball with the arrow keys, WASD keys or a gamepad.</p>
 
